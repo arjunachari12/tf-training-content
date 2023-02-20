@@ -8,3 +8,5 @@ https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 az account set --subscription ""
+
+https://docs.google.com/document/d/1rJFqPN3iqSODS3aVWgtgA1rYLZx2Uhh__xaC98yBJak/edit?usp=sharing
